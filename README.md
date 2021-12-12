@@ -15,7 +15,7 @@ El propósito era crear una sencilla app que imprima en la consola el mensaje de
 
 Para correrla se debe ejecutar el comando `node app.js` (estando en el directorio del proyecto) y luego abrir la dirección `http://localhost:3000` en el navegador.
 
-Para agregar un mensaje se debe cambiar la url en la parte de arriba incluyendo el mensaje a desplegar. Por ejemplo, si quiero que en mi consola salga la vaca diciendo el mensaje *Hola, soy una vaca* entonces debo cambiar la url por `http://localhost:3000/Hola, soy una vaca`.
+Para agregar un mensaje se debe cambiar la url en la parte de arriba incluyendo el mensaje a desplegar. Por ejemplo, si quiero que en mi consola salga la vaca diciendo el mensaje *Hola, soy una vaca* entonces debo cambiar la url por `http://localhost:3000/input/Hola, soy una vaca`. (agregar la ruta `/input/` antes del mensaje).
 En seguida saldrá en la consola en la que se ejecuta la app el dibujo de la vaca diciendo ese mismo mensaje.
 
 Eso es todo :blush:
