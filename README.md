@@ -30,8 +30,8 @@ y por tanto para correr la aplicación en su forma dockerizada se debe ejecutar,
 
 `$ docker run -p 49160:3000 -d jjcalvom/docker_intro`
 
-### Prueba de instalación de IDE y creación de imagen
+### Prueba de instalación de IDE 
 
-En la carpeta `/imagenes` he agregado algunas tomas de pantalla para comprobar que he instalado Visual Studio Code, Docker Desktop y además pantallazos de la creación de la imagen en docker.
+En la carpeta `/imagenes` he agregado algunas tomas de pantalla para comprobar que he instalado Visual Studio Code y Docker Desktop.
 
 Eso es todo :blush:
